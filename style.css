@@ -2464,7 +2464,7 @@ Media Queries
 	
 }
 
-#gform_wrapper_1 {
+.gform_wrapper {
   padding: 20px 40px;
   background-color: #FFD87A;
   border-radius: 20px;
