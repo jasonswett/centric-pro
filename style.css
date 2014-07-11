@@ -2487,6 +2487,6 @@ Media Queries
   width: 100% !important;
 }
 
-.widget-title {
+.gform_widget .widget-title {
   display: none;
 }
