@@ -1078,7 +1078,7 @@ Site Header
 .title-area {
 	float: left;
 	padding: 0;
-	width: 360px;
+	width: 420px;
 }
 
 .header-full-width .title-area {
@@ -1087,9 +1087,9 @@ Site Header
 
 .site-title {
 	font-family: 'Spinnaker', sans-serif;
-	font-size: 60px;
+	font-size: 28px;
 	font-weight: 700;
-	line-height: 1.2;
+	line-height: 80px;
 }
 
 .site-header .site-title a,
