@@ -1148,8 +1148,9 @@ Site Header
 }
 
 .shrink .site-title {
-	font-size: 36px;
+	font-size: 22px;
 	padding-top: 10px;
+  line-height: 40px;
 }
 
 .header-image .shrink .site-title {
