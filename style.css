@@ -2507,6 +2507,7 @@ ul#benefits-list {
 
 .home .sidebar-primary {
   width: 450px;
+  border: none;
 }
 
 .home .content {
