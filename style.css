@@ -1052,15 +1052,15 @@ Site Header
 }
 
 .site-header .wrap {
-	min-height: 160px;
+	min-height: 100px;
 }
 
 .bumper {
-	min-height: 160px;
+	min-height: 100px;
 }
 
 .site-header .wrap {
-	padding: 40px;
+	padding: 10px 40px;
 	max-width: 100%;
 }
 
@@ -2471,7 +2471,11 @@ Media Queries
 }
 
 .sidebar {
-  padding-top: 30px;
+  padding-top: 40px;
+}
+
+.content {
+  padding-top: 50px;
 }
 
 .sidebar li {
@@ -2489,4 +2493,21 @@ Media Queries
 
 .gform_widget .widget-title {
   display: none;
+}
+
+.gform_widget {
+  padding: 0 !important;
+}
+
+ul#benefits-list {
+  width: 50%;
+  float: left;
+}
+
+.home .sidebar-primary {
+  width: 450px;
+}
+
+.home .content {
+  width: 650px;
 }
