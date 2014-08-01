@@ -147,7 +147,7 @@ Defaults
 --------------------------------------------- */
 
 body {
-	background-color: #13afdf;
+	background-color: #3554A4;
 	color: #2e2f33;
 	font-family: 'Lato', sans-serif;
 	font-size: 18px;
@@ -182,7 +182,7 @@ textarea:focus,
 }
 
 a {
-	color: #13afdf;
+	color: #3554A4;
 	text-decoration: none;
 }
 
@@ -374,7 +374,7 @@ input:hover[type="button"],
 input:hover[type="reset"],
 input:hover[type="submit"],
 .button:hover {
-	background-color: #13afdf;
+	background-color: #3554A4;
 	color: #fff;
 }
 
@@ -472,7 +472,7 @@ input[type="search"]::-webkit-search-results-button {
 
 .home-featured .more-link:hover,
 .home-widgets .more-link:hover {
-	background-color: #13afdf;
+	background-color: #3554A4;
 	color: #fff;
 }
 
@@ -727,7 +727,7 @@ Common Classes
 
 .entry-title a:hover,
 .footer-widgets .featured-content .entry-title a:hover {
-	color: #13afdf;
+	color: #3554A4;
 }
 
 .widget-title {
@@ -1039,7 +1039,7 @@ Site Header
 ---------------------------------------------------------------------------------------------------- */
 
 .site-header {
-	background-color: #13afdf;
+	background-color: #3554A4;
 	left: 0;
 	position: fixed;
 	top: 0;
@@ -1199,7 +1199,7 @@ Site Navigation
 }
 
 .genesis-nav-menu .sub-menu {
-	background-color: #13afdf;
+	background-color: #3554A4;
 	left: -9999px;
 	opacity: 0;
 	position: absolute;
@@ -1676,7 +1676,7 @@ p.entry-meta {
 
 .archive-pagination li a:hover,
 .archive-pagination .active a {
-	background-color: #13afdf;
+	background-color: #3554A4;
 }
 
 /* Comments
@@ -1716,7 +1716,7 @@ li.comment {
 }
 
 .comment-header a:hover {
-	color: #13afdf;
+	color: #3554A4;
 }
 
 .comment-author,
