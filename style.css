@@ -514,7 +514,7 @@ Structure and Layout
 --------------------------------------------- */
 
 .wrap {
-	margin: 0;
+	margin: 0 auto;
 	max-width: 1280px;
 }
 
@@ -537,6 +537,7 @@ Structure and Layout
 .content {
 	float: right;
 	padding: 80px 0;
+	width: 880px;
 }
 
 .centric-pro-home .content {
@@ -2510,6 +2511,5 @@ ul#benefits-list {
 }
 
 .home .content {
-  width: 50%;
-  margin-left: 20px;
+  width: 650px;
 }
