@@ -1979,6 +1979,10 @@ Theme Colors
   text-align: left;
 }
 
+.sidebar-primary {
+  display: none;
+}
+
 @media (min-width: 0px) {
   #rest-of-title {
     display: none;
