@@ -1996,6 +1996,9 @@ Theme Colors
   #rest-of-title {
     display: none;
   }
+  .site-header {
+    width: 150px;
+  }
 }
 
 @media (min-width: 600px) {
@@ -2005,4 +2008,22 @@ Theme Colors
   .copy {
     width: 400px;
   }
+  .site-header {
+    width: 480px;
+  }
+}
+
+.site-header {
+  float: left;
+}
+
+.nav-primary {
+  width: 100px;
+  float: right;
+  background: none;
+}
+
+.nav-primary li a {
+  padding: 18px;
+  text-align: right;
 }
