@@ -1921,9 +1921,12 @@ Theme Colors
   max-width: 100% !important;
 }
 
-.gform_wrapper form {
+.gform_wrapper form, .copy {
   padding-left: 20px;
   padding-right: 20px;
+}
+
+.gform_wrapper form {
   padding-top: 20px;
   padding-bottom: 20px;
   width: 400px;
@@ -1969,6 +1972,13 @@ Theme Colors
   text-align: center;
 }
 
+.copy {
+  margin: 0 auto;
+  font-family: 'Times New Roman';
+  font-size: 20px;
+  text-align: left;
+}
+
 @media (min-width: 0px) {
   #rest-of-title {
     display: none;
@@ -1978,5 +1988,8 @@ Theme Colors
 @media (min-width: 600px) {
   #rest-of-title {
     display: inline;
+  }
+  .copy {
+    width: 400px;
   }
 }
