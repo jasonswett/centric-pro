@@ -164,11 +164,6 @@ input[type="submit"],
 textarea:focus,
 .button,
 .more-link {
-	-webkit-transition: all 0.1s ease-in-out;
-	-moz-transition:    all 0.1s ease-in-out;
-	-ms-transition:     all 0.1s ease-in-out;
-	-o-transition:      all 0.1s ease-in-out;
-	transition:         all 0.1s ease-in-out;
 }
 
 ::-moz-selection {
@@ -1022,9 +1017,6 @@ div.gform_wrapper .gform_footer input[type=submit] {
 --------------------------------------------- */
 
 .simple-social-icons li a {
-    -webkit-transition: -webkit-transform 0.4s ease-out;
-    -moz-transition: -moz-transform 0.4s ease-out;
-    transition: transform 0.4s ease-out;
 }
 
 .simple-social-icons li a:hover {
@@ -1041,10 +1033,8 @@ Site Header
 .site-header {
 	background-color: #3554A4;
 	left: 0;
-	position: fixed;
 	top: 0;
 	width: 100%;
-	z-index: 999;
 }
 
 .admin-bar .site-header {
@@ -1056,7 +1046,6 @@ Site Header
 }
 
 .bumper {
-	min-height: 100px;
 }
 
 .site-header .wrap {
@@ -1067,9 +1056,6 @@ Site Header
 .site-header,
 .site-header .wrap,
 .site-description {
-	-webkit-transition: all 0.4s ease-in-out;
-	-moz-transition:    all 0.4s ease-in-out;
-	transition:         all 0.4s ease-in-out;
 }
 
 /* Title Area
@@ -1203,11 +1189,6 @@ Site Navigation
 	left: -9999px;
 	opacity: 0;
 	position: absolute;
-	-webkit-transition: opacity .4s ease-in-out;
-	-moz-transition:    opacity .4s ease-in-out;
-	-ms-transition:     opacity .4s ease-in-out;
-	-o-transition:      opacity .4s ease-in-out;
-	transition:         opacity .4s ease-in-out;
 	width: 200px;
 	z-index: 99;
 }
