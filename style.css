@@ -1983,6 +1983,16 @@ Theme Colors
   display: none;
 }
 
+.footer-widgets {
+  padding: 20px;
+}
+
+.footer-widgets .widget-area {
+  border: 1px solid red;
+  width: 300px;
+  float: left;
+}
+
 @media (min-width: 0px) {
   #rest-of-title {
     display: none;
