@@ -530,6 +530,7 @@ Common Classes
 
 .entry-title {
 	font-size: 36px;
+    text-align: center;
 }
 
 .content .entry-title a,
@@ -1931,7 +1932,6 @@ Theme Colors
 
 .content {
   width: 100%;
-  text-align: center;
 }
 
 .copy {
